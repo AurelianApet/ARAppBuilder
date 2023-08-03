@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 4cbcd1af876a80f4a8d2d5e7d68e2aad
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: B_canvas_01
+    100002: B_canvas_wood_01
+    100004: B_canvas_wood_01_01
+    100006: B_canvas_wood_02
+    100008: B_canvas_wood_03
+    100010: B_canvas_wood_05
+    100012: B_canvas_wood_06
+    100014: B_canvas_wood_07
+    100016: //RootNode
+    100018: canvas_01
+    100020: canvas_rotate
+    100022: canvas_screen
+    100024: canvas_wood_01
+    100026: canvas_wood_02
+    100028: canvas_wood_03
+    100030: canvas_wood_05
+    100032: canvas_wood_06
+    100034: canvas_wood_07
+    400000: B_canvas_01
+    400002: B_canvas_wood_01
+    400004: B_canvas_wood_01_01
+    400006: B_canvas_wood_02
+    400008: B_canvas_wood_03
+    400010: B_canvas_wood_05
+    400012: B_canvas_wood_06
+    400014: B_canvas_wood_07
+    400016: //RootNode
+    400018: canvas_01
+    400020: canvas_rotate
+    400022: canvas_screen
+    400024: canvas_wood_01
+    400026: canvas_wood_02
+    400028: canvas_wood_03
+    400030: canvas_wood_05
+    400032: canvas_wood_06
+    400034: canvas_wood_07
+    4300000: canvas_wood_02
+    4300002: canvas_screen
+    4300004: canvas_01
+    4300006: canvas_wood_01
+    4300008: canvas_wood_05
+    4300010: canvas_wood_03
+    4300012: canvas_wood_06
+    4300014: canvas_wood_07
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: canvas_01
+    13700002: canvas_screen
+    13700004: canvas_wood_01
+    13700006: canvas_wood_02
+    13700008: canvas_wood_03
+    13700010: canvas_wood_05
+    13700012: canvas_wood_06
+    13700014: canvas_wood_07
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 1
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

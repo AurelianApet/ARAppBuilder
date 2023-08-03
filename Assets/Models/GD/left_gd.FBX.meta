@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: afa7cfee40e6e42409fc9fdb09cc69d1
+timeCreated: 1524840837
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001 Pelvis
+    100002: gd_Bip001
+    100004: gd_Bip001 Footsteps
+    100006: gd_Bip001 Head
+    100008: gd_Bip001 HeadNub
+    100010: gd_Bip001 L Calf
+    100012: gd_Bip001 L Clavicle
+    100014: gd_Bip001 L Finger0
+    100016: gd_Bip001 L Finger0Nub
+    100018: gd_Bip001 L Finger1
+    100020: gd_Bip001 L Finger1Nub
+    100022: gd_Bip001 L Finger2
+    100024: gd_Bip001 L Finger2Nub
+    100026: gd_Bip001 L Foot
+    100028: gd_Bip001 L Forearm
+    100030: gd_Bip001 L Hand
+    100032: gd_Bip001 L Thigh
+    100034: gd_Bip001 L Toe0
+    100036: gd_Bip001 L Toe0Nub
+    100038: gd_Bip001 L UpperArm
+    100040: gd_Bip001 Neck
+    100042: gd_Bip001 R Calf
+    100044: gd_Bip001 R Clavicle
+    100046: gd_Bip001 R Finger0
+    100048: gd_Bip001 R Finger0Nub
+    100050: gd_Bip001 R Finger1
+    100052: gd_Bip001 R Finger1Nub
+    100054: gd_Bip001 R Finger2
+    100056: gd_Bip001 R Finger2Nub
+    100058: gd_Bip001 R Foot
+    100060: gd_Bip001 R Forearm
+    100062: gd_Bip001 R Hand
+    100064: gd_Bip001 R Thigh
+    100066: gd_Bip001 R Toe0
+    100068: gd_Bip001 R Toe0Nub
+    100070: gd_Bip001 R UpperArm
+    100072: gd_Bip001 Spine
+    100074: gd_Bip001 Spine1
+    100076: gd_Bip001 Spine2
+    100078: gd_Mesh372
+    100080: gd_Mesh497
+    100082: gd_Mesh532
+    100084: gd_Mesh565
+    100086: gd_Mesh569
+    100088: gd_Object002
+    100090: gd_Object003
+    100092: gd_Object004
+    100094: gd_Object005
+    100096: gd_Object006
+    100098: gd_Object007
+    100100: gd_Object008
+    100102: gd_Object009
+    100104: gd_Object010
+    100106: gd_Object011
+    100108: gd_Object012
+    100110: gd_Object015
+    100112: gd_Object016
+    100114: gd_Object017
+    100116: gd_Object018
+    100118: gd_Object019
+    100120: gd_Object020
+    100122: //RootNode
+    100124: shadow_01
+    400000: Bip001 Pelvis
+    400002: gd_Bip001
+    400004: gd_Bip001 Footsteps
+    400006: gd_Bip001 Head
+    400008: gd_Bip001 HeadNub
+    400010: gd_Bip001 L Calf
+    400012: gd_Bip001 L Clavicle
+    400014: gd_Bip001 L Finger0
+    400016: gd_Bip001 L Finger0Nub
+    400018: gd_Bip001 L Finger1
+    400020: gd_Bip001 L Finger1Nub
+    400022: gd_Bip001 L Finger2
+    400024: gd_Bip001 L Finger2Nub
+    400026: gd_Bip001 L Foot
+    400028: gd_Bip001 L Forearm
+    400030: gd_Bip001 L Hand
+    400032: gd_Bip001 L Thigh
+    400034: gd_Bip001 L Toe0
+    400036: gd_Bip001 L Toe0Nub
+    400038: gd_Bip001 L UpperArm
+    400040: gd_Bip001 Neck
+    400042: gd_Bip001 R Calf
+    400044: gd_Bip001 R Clavicle
+    400046: gd_Bip001 R Finger0
+    400048: gd_Bip001 R Finger0Nub
+    400050: gd_Bip001 R Finger1
+    400052: gd_Bip001 R Finger1Nub
+    400054: gd_Bip001 R Finger2
+    400056: gd_Bip001 R Finger2Nub
+    400058: gd_Bip001 R Foot
+    400060: gd_Bip001 R Forearm
+    400062: gd_Bip001 R Hand
+    400064: gd_Bip001 R Thigh
+    400066: gd_Bip001 R Toe0
+    400068: gd_Bip001 R Toe0Nub
+    400070: gd_Bip001 R UpperArm
+    400072: gd_Bip001 Spine
+    400074: gd_Bip001 Spine1
+    400076: gd_Bip001 Spine2
+    400078: gd_Mesh372
+    400080: gd_Mesh497
+    400082: gd_Mesh532
+    400084: gd_Mesh565
+    400086: gd_Mesh569
+    400088: gd_Object002
+    400090: gd_Object003
+    400092: gd_Object004
+    400094: gd_Object005
+    400096: gd_Object006
+    400098: gd_Object007
+    400100: gd_Object008
+    400102: gd_Object009
+    400104: gd_Object010
+    400106: gd_Object011
+    400108: gd_Object012
+    400110: gd_Object015
+    400112: gd_Object016
+    400114: gd_Object017
+    400116: gd_Object018
+    400118: gd_Object019
+    400120: gd_Object020
+    400122: //RootNode
+    400124: shadow_01
+    2300000: gd_Mesh372
+    2300002: gd_Mesh497
+    2300004: gd_Mesh532
+    2300006: gd_Mesh565
+    2300008: gd_Mesh569
+    2300010: gd_Object002
+    2300012: gd_Object003
+    2300014: gd_Object004
+    2300016: gd_Object005
+    2300018: gd_Object006
+    2300020: gd_Object007
+    2300022: gd_Object008
+    2300024: gd_Object009
+    2300026: gd_Object010
+    2300028: gd_Object011
+    2300030: gd_Object012
+    2300032: gd_Object015
+    2300034: gd_Object016
+    2300036: gd_Object017
+    2300038: gd_Object018
+    2300040: gd_Object019
+    2300042: gd_Object020
+    2300044: shadow_01
+    3300000: gd_Mesh372
+    3300002: gd_Mesh497
+    3300004: gd_Mesh532
+    3300006: gd_Mesh565
+    3300008: gd_Mesh569
+    3300010: gd_Object002
+    3300012: gd_Object003
+    3300014: gd_Object004
+    3300016: gd_Object005
+    3300018: gd_Object006
+    3300020: gd_Object007
+    3300022: gd_Object008
+    3300024: gd_Object009
+    3300026: gd_Object010
+    3300028: gd_Object011
+    3300030: gd_Object012
+    3300032: gd_Object015
+    3300034: gd_Object016
+    3300036: gd_Object017
+    3300038: gd_Object018
+    3300040: gd_Object019
+    3300042: gd_Object020
+    3300044: shadow_01
+    4300000: gd_Mesh497
+    4300002: gd_Mesh569
+    4300004: gd_Mesh565
+    4300006: gd_Mesh372
+    4300008: gd_Object009
+    4300010: gd_Object008
+    4300012: gd_Object007
+    4300014: gd_Object010
+    4300016: gd_Object002
+    4300018: gd_Object006
+    4300020: gd_Object005
+    4300022: gd_Object004
+    4300024: gd_Object011
+    4300026: gd_Object003
+    4300028: gd_Mesh532
+    4300030: gd_Object017
+    4300032: gd_Object016
+    4300034: gd_Object015
+    4300036: gd_Object020
+    4300038: gd_Object019
+    4300040: gd_Object018
+    4300042: gd_Object012
+    4300044: shadow_01
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
